@@ -108,10 +108,10 @@ export default function Home() {
 
             <section id= "about" className={styles.hero}>
                 <div className={styles.heroContainer}>
-                    <h2>Personalized Meal Replacement Solution for Young Professionals, Engineered for Your Success</h2>
+                    <h2>Personalized Meal Replacement Solution for Young Professionals, Engineered for Your Success.</h2>
                     <div className={styles.useCases}>
                         <p>(for those morning exams)</p>
-                        <p>(for those gym session)</p>
+                        <p>(for those gym sessions)</p>
                         <p>(for a healthier life-style)</p>
                         <p>(for those hours cramming)</p>
                         <p>(for those long lectures)</p>
